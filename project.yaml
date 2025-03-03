@@ -1,0 +1,6 @@
+kind: project
+metadata:
+  name: test-workflow
+spec:
+  functions: []
+
